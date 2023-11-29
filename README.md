@@ -1,4 +1,4 @@
 
 ## ✅ Latest Blog Post
-<!-- Madman-dev:START -->
-<!-- Madman-dev:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
