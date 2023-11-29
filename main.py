@@ -1,21 +1,19 @@
-import feedparser, time
+name: Latest DevDojo blog post workflow
+on:
+  schedule:
+    # Runs every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
-URL = "https://v2.velog.io/rss/jacks222"
-RSS_FEED = feedparser.parse(URL)
-MAX_POST = 5
-
-markdown_text = """
-## ✅ Latest Blog Post
-
-"""  # list of blog posts will be appended here
-
-for idx, feed in enumerate(RSS_FEED['entries']):
-    if idx > MAX_POST:
-        break
-    else:
-        feed_date = feed['published_parsed']
-        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
-        
-f = open("README.md", mode="w", encoding="utf-8")
-f.write(markdown_text)
-f.close()
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "DEVDOJO"
+          feed_list: "https://v2.velog.io/rss/jacks222"
+          commit_message: "Update Madman-dev blog posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
