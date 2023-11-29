@@ -1,3 +1,14 @@
+### 👋 반갑습니다!
+
+* 👨🏻‍💻 오늘도 성장하려는 주니어 앱 개발자입니다.
+* 🧐 유저의 경험과 사용성에 호기심이 많습니다.
+* 🚀 어떤 도전을 해야할지 오늘도 고민하고 있습니다.
+
+**언어 및 도구**
+
+<code><img height="20" src="https://github.com/Madman-dev/Madman-dev/assets/119504454/d35b3aeb-5a58-4279-944f-badc0b4ed890"></code>
+<code><img height="20" src="https://github.com/Madman-dev/Madman-dev/assets/119504454/aa7df69e-04c7-4470-b924-1d7887e9c2f0"></code>
+<code><img height="20" src="https://github.com/Madman-dev/Madman-dev/assets/119504454/e7a9a49d-812d-4c11-b471-011f50be474f"></code>
 
 ## ✅ Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
