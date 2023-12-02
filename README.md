@@ -1,8 +1,8 @@
-### 👋 반갑습니다!
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> 반갑습니다!
 
-* 👨🏻‍💻 오늘도 성장하려는 주니어 앱 개발자입니다.
-* 🧐 유저의 경험과 사용성에 호기심이 많습니다.
-* 🚀 어떤 도전을 해야할지 오늘도 고민하고 있습니다.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="20" height="20" /> 오늘도 성장하려는 주니어 앱 개발자입니다. 
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="20" height="20" /> 유저의 경험과 사용성에 호기심이 많습니다.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> 어떤 도전을 해야할지 오늘도 고민하고 있습니다.
 
 **언어 및 도구**
 
