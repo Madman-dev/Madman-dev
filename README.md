@@ -12,9 +12,9 @@
 
 ## ✅ Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [SMTP 발송 실패! - 고민점 정리](https://velog.io/@jacks222/SMTP-%EB%B0%9C%EC%86%A1-%EC%8B%A4%ED%8C%A8-%EC%9B%90%EC%9D%B8-%EB%B6%84%EC%84%9D)
 - [OOP 법칙 정리 - 디미터 법칙](https://velog.io/@jacks222/OOP-%EB%B2%95%EC%B9%99-%EC%A0%95%EB%A6%AC-)
 - [regex 관련 Deeper Dive [Java 로 이해하기]](https://velog.io/@jacks222/regex-%EA%B4%80%EB%A0%A8-Deeper-Dive-Swift%EA%B0%80-%EC%95%84%EB%8B%8C-Java-%EC%A4%91%EC%8B%AC)
-- [이메일로 인증 번호를 발송하는 SMTP](https://velog.io/@jacks222/%EC%9D%B4%EB%A9%94%EC%9D%BC%EB%A1%9C-%EC%9D%B8%EC%A6%9D-%EB%B2%88%ED%98%B8%EB%A5%BC-%EB%B0%9C%EC%86%A1%ED%95%98%EB%8A%94-SMTP)
+- [중복 이메일과 가계정은 어떻게 해결할까? - SMTP 활용](https://velog.io/@jacks222/%EC%9D%B4%EB%A9%94%EC%9D%BC%EB%A1%9C-%EC%9D%B8%EC%A6%9D-%EB%B2%88%ED%98%B8%EB%A5%BC-%EB%B0%9C%EC%86%A1%ED%95%98%EB%8A%94-SMTP)
 - [iOS 배포에 필요한 자료들에 대한 고찰](https://velog.io/@jacks222/iOS-%EB%B0%B0%ED%8F%AC%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9E%90%EB%A3%8C%EB%93%A4%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0)
-- [내일배움 캠프 종료!](https://velog.io/@jacks222/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80-%EC%BA%A0%ED%94%84-%EC%A2%85%EB%A3%8C)
 <!-- BLOG-POST-LIST:END -->
