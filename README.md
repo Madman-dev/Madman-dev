@@ -13,9 +13,9 @@
 
 ## ✅ Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Macros의 도입 &lpar;Update*&rpar;](https://velog.io/@jacks222/Macros%EC%9D%98-%EB%8F%84%EC%9E%85-Update)
 - [AST&lpar;Abstract Syntax Tree&rpar;](https://velog.io/@jacks222/ASTAbstract-Syntax-Tree)
 - [viewIsAppearing의 탄생!](https://velog.io/@jacks222/viewIsAppearing%EC%9D%98-%ED%83%84%EC%83%9D)
 - [엄청 늦은 PassKey에 대한 정리](https://velog.io/@jacks222/%EC%97%84%EC%B2%AD-%EB%8A%A6%EC%9D%80-PassKey%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A0%95%EB%A6%AC)
 - [SMTP 발송 실패! - 고민점 정리](https://velog.io/@jacks222/SMTP-%EB%B0%9C%EC%86%A1-%EC%8B%A4%ED%8C%A8-%EC%9B%90%EC%9D%B8-%EB%B6%84%EC%84%9D)
-- [OOP 법칙 정리 - 디미터 법칙](https://velog.io/@jacks222/OOP-%EB%B2%95%EC%B9%99-%EC%A0%95%EB%A6%AC-)
 <!-- BLOG-POST-LIST:END -->
