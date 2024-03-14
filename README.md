@@ -13,7 +13,7 @@
 
 ## ✅ Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
-- [Notification Center에 대해 얼마나 알고 있는걸까?](https://velog.io/@jacks222/Notification-Center%EC%97%90-%EB%8C%80%ED%95%B4-%EC%96%BC%EB%A7%88%EB%82%98-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B1%B8%EA%B9%8C)
+- [Notification Center를 공부하자](https://velog.io/@jacks222/Notification-Center%EC%97%90-%EB%8C%80%ED%95%B4-%EC%96%BC%EB%A7%88%EB%82%98-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B1%B8%EA%B9%8C)
 - [New Keywords I&#39;ve clashed into &lpar;Updating&rpar;](https://velog.io/@jacks222/New-Keywords-Ive-clashed-into-Updating)
 - [UIAction 너는 누구냐](https://velog.io/@jacks222/UIAction)
 - [3개월간의 고해성사](https://velog.io/@jacks222/3%EA%B0%9C%EC%9B%94%EA%B0%84%EC%9D%98-%EA%B3%A0%ED%95%B4%EC%84%B1%EC%82%AC)
