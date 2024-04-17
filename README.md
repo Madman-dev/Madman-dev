@@ -13,9 +13,9 @@
 
 ## ✅ Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [PerformBatch로 셀을 다이나믹하게 만들다](https://velog.io/@jacks222/PerformBatch%EB%A1%9C-%EC%85%80%EC%9D%84-%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A4%EB%8B%A4)
 - [Integrating Github onto Jira](https://velog.io/@jacks222/Integrating-Github-onto-Jira)
 - [iOS Assets ② - Universal? @1x? 🎨](https://velog.io/@jacks222/iOS-Assets-Universal)
 - [iOS Assets ① - 배경과 픽셀과 그래픽](https://velog.io/@jacks222/%ED%94%BD%EC%85%80-%EC%A0%95%EB%B3%B4-%EB%B9%84%ED%8A%B8%EB%A7%B5-%EB%B2%A1%ED%84%B0)
 - [Everything About Memory Management ①](https://velog.io/@jacks222/Everything-About-Memory-Management)
-- [추상화가 항상 좋지는 않구나! AHA!](https://velog.io/@jacks222/Aha-Programming)
 <!-- BLOG-POST-LIST:END -->
