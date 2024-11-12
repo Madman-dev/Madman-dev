@@ -1,9 +1,9 @@
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> 안녕하세요! 이동준입니다.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> 안녕하세요! iOS 개발자 이동준입니다.
 
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Superhero.png" alt="Man Superhero" width="25" height="25" /> 광고쟁이에서 개발쟁이로 변신 중
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="20" height="20" /> 오늘도 성장하고 노력하는 iOS 주니어 개발자에요.
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="20" height="20" /> 이해가 되지 않으면 찬찬히 다시 들여다 보는 편이에요.
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> 유저 시선으로 바라보는 관찰과 관점을 좋아해요.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Superhero.png" alt="Man Superhero" width="25" height="25" /> 만져볼 수 없는 시각적인 방법으로 문제를 해결하던 광고인에서 인터렉션을 할 수 있는 개발자로 성장하고자 합니다.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="20" height="20" /> 특정 선택에 대해 논리를 세울 수 있도록 노력하고 있습니다.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="20" height="20" /> 문제를 마주하면 기록을 할 수 있도록 문제 정의서를 정리하고 있어요.
+* [문제 정의서 및 공부 기록](https://quiet-porch-d84.notion.site/Digital-Woodwork-Log-12e2368ffe31807daa4ae2c880e2200c?pvs=4)
 
 **언어 및 도구**
 
