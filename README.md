@@ -3,7 +3,6 @@
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Superhero.png" alt="Man Superhero" width="25" height="25"/> 시각적인 방법으로 문제를 해결하던 광고인에서 소비자와 직접 교류하여 문제를 마주할 수 있는 개발자로 성장하고자 합니다.
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="20" height="20" /> 특정 선택에 대해 논리를 세울 수 있도록 노력하고 있습니다.
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="20" height="20" /> 문제를 마주하면 기록을 할 수 있도록 문제 정의서를 정리하고 있어요.
-* [문제 정의서 및 공부 기록](https://quiet-porch-d84.notion.site/Digital-Woodwork-Log-12e2368ffe31807daa4ae2c880e2200c?pvs=4)
 
 **언어 및 도구**
 
