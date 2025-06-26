@@ -12,9 +12,9 @@
 
 ## ✅ Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [데이터 정규화 들어가기](https://velog.io/@jacks222/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%95%EA%B7%9C%ED%99%94-%EB%93%A4%EC%96%B4%EA%B0%80%EA%B8%B0)
+- [useMemo](https://velog.io/@jacks222/useMemo)
 - [나 자신을 의심할 것.](https://velog.io/@jacks222/Focus-Focus-Focus)
 - [Coordinator 패턴.... 패...턴?](https://velog.io/@jacks222/Coordinator-%ED%8C%A8%ED%84%B4....-%ED%8C%A8...%ED%84%B4)
 - [Authentication / Authorization](https://velog.io/@jacks222/Authentication-Authorization)
-- [이미지 실루엣 만들기](https://velog.io/@jacks222/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%8B%A4%EB%A3%A8%EC%97%A3-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-- [PerformBatch로 셀을 다이나믹하게 만들다](https://velog.io/@jacks222/PerformBatch%EB%A1%9C-%EC%85%80%EC%9D%84-%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A4%EB%8B%A4)
 <!-- BLOG-POST-LIST:END -->
